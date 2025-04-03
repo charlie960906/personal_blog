@@ -203,9 +203,11 @@ navbar:
       path: / 
       icon: fa-regular fa-house # can be empty
     Coding:
-      path: /coding
+      path: /coding/
       icon: fa-solid fa-code
-
+    link:
+      path: /links/
+      icon: fa-solid fa-link
 
     # Archives: 
     #   path: /archives 
