@@ -1,7 +1,7 @@
 - links_category: 倫敦鐵橋
-  has_thumbnail: true
+  has_thumbnail: false
   list:
       - name: 倫敦鐵喬的網頁
         link: https://bone1018.hyjdevelop.com
         description: 因為學測而放棄繼續寫個人網頁的超強美宣
-        avatar: https://bone1018.hyjdevelop.com/whole.png
+        avatar: https://bone1018.hyjdevelop.com/me.png
