@@ -208,6 +208,15 @@ navbar:
     link:
       path: /links/
       icon: fa-solid fa-link
+    Tags:
+      path: /tags/
+      icon: fa-solid fa-tags
+    Categories: 
+            icon: fa-solid fa-folder
+            path: /categories/ 
+    Bookmarks:
+      icon: fa-solid fa-bookmark 
+      path: /bookmarks/
 
     # Archives: 
     #   path: /archives 
@@ -464,7 +473,7 @@ page_templates:
   # Friend Links page column number
   friends_column: 2
   # Tags page style
-  tags_style: blur # blur, cloud
+  tags_style: cloud # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
